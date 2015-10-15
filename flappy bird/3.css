@@ -1,4 +1,4 @@
-        .box{
+                .box{
 			height: 260px;
 			width: 377px;
 			position:absolute;	
@@ -7,7 +7,7 @@
 			top:50%;
 			left:50%;
 			margin-top: -130px;
-            margin-left: -190px;
+                        margin-left: -190px;
 		}
 		.box img{
 			display: block;
