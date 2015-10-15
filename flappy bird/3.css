@@ -1,0 +1,115 @@
+        .box{
+			height: 260px;
+			width: 377px;
+			position:absolute;	
+			border: 1px solid red;
+			overflow: hidden;
+			top:50%;
+			left:50%;
+			margin-top: -130px;
+            margin-left: -190px;
+		}
+		.box img{
+			display: block;
+			
+		}
+		.bac-img{
+			display: block;
+		}
+		P{
+			display: block;
+		}
+		.text-1{
+			position: absolute;
+			left: 30px;
+			top: 130px;			
+			font-weight: 900;
+
+		}
+		.text-2{
+			position: absolute;
+			left: 125px;
+			top: 155px;
+			font-weight: 900;
+			font-size:35px;
+			
+		}
+		.bird{
+			display: none;	
+			position:absolute;
+			left: 20px;
+			top: 100px;
+		}
+		.explain{
+			display: none;
+			position: absolute;
+			top:50px;
+			left:80px;
+		}
+		.first_up{
+			position: absolute;
+			top:-290px;
+			left: 160px;
+			display: none;				
+		}
+		.first_down{
+			position: absolute;
+			top:125px;
+			left: 160px;
+			display: none;			
+		}
+		.second_up{
+			position: absolute;
+			top:-290px;
+			right: -52px;
+			display: none;
+		}
+		.second_down{
+			position: absolute;
+			top:125px;
+			right: -52px;
+			display: none;
+		}
+		.gameover{
+			position: absolute;
+			top:30px;
+			left:70px;
+			display:none;
+		}	
+		.score{
+			position: absolute;
+			top:160px;
+			left: 85px;
+			display:none;
+		}
+		.font_one{
+			position: absolute;
+			top:35px;
+			left: 185px;
+			display:none;
+		}	
+		.font_two{
+			position: absolute;
+			top:35px;
+			left: 208px;
+			display:none;
+		}
+		.over_img{
+			position: absolute;
+			top:75px;
+			left:100px;
+			display: none;
+		}
+		.again{
+			position: absolute;
+			top:210px;
+			left: 140px;
+			font-weight: 900;
+			font-size: 35px;
+			display: none;
+		}
+		.again a{
+			display: block;
+		}
+
+        
